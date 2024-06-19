@@ -2,3 +2,6 @@ this is file in folder 3
 
 
 add another file or folder to commit
+
+
+third line
